@@ -1,0 +1,66 @@
+/* Body styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9f8;
+  }
+  
+  /* Form styling */
+  .form {
+    background-color: #55b175;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.1);
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 40px;
+
+  }
+  
+  /* Heading styling */
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Label and input styling */
+  label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #bc65d6;
+    margin-bottom: 10px;
+  }
+  
+  /* Button styling */
+  button {
+    background-color: blue;
+    color: #55b175;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: rebeccapurple;
+  }
+  
+  /* Error message styling */
+  .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
