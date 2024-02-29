@@ -23,6 +23,6 @@ Launch the application on your local development environment.
 We enthusiastically welcome contributions aimed at enhancing the Electric Vehicle Charge Station project. Whether you've identified issues or have ideas for new features, feel free to open an issue or submit a pull request on our GitHub repository.
 
 #Contact Information
-For inquiries or support related to the Electric Vehicle Charge Station project, please don't hesitate to reach out to us at vishwajeetroundhal0@gmail.com.
+For inquiries or support related to the Electric Vehicle Charge Station project, please don't hesitate to reach out to us at sriranjanit9@gmail.com.
 
 Thank you for your interest in our project!
